@@ -13,4 +13,4 @@
 ## 세번째 여행지 완도
 *최남단 한국의 대표적인 섬 완도*
 
-[링크1](http://blog.naver.com/ran5141?Redirect=Log&logNo=221096639144 "완도 여행지 링크")
+[링크1](http://blog.naver.com/ran5141?Redirect=Log&logNo=221096639144)
